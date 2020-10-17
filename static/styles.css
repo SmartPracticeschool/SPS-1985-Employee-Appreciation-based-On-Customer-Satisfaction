@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&display=swap');
+
+html {
+  scroll-behavior: smooth;
+ }
+
+ .main_form
+ {
+	 
+	 width:500px;
+	 height:2000px;
+	 
+	 margin-top:50px;
+	 margin-left:50px;
+	 margin-bottom:50px;
+	 margin-right:50px;	
+ }				
+		
+.title
+{
+	font-family:"Exo 2";
+	color:rgb(10, 10, 10);
+	font-size:50px;
+	padding-top:100px;
+	padding-left:520px;
+}
+
+input
+{
+	-moz-border-radius: 15px;
+	border-radius: 30px;
+    border:solid 1px rgb(54, 54, 52);
+	height:50px;
+	width:400px;
+	outline: none;
+	background-color:rgb(161, 161, 160);
+	padding-left: 20px;
+	font-size:15px;
+	font-family: "Balsamiq Sans";
+
+}
+
+.input_field
+{
+	padding-left:500px;
+	padding-top:200px;
+}
+
+.employees
+{
+	-moz-border-radius: 15px;
+	border-radius: 30px;
+    border:solid 1px rgb(253, 253, 251);
+	height:50px;
+	width:400px;
+	outline: none;
+	background-color:rgb(151, 151, 148);
+	padding-left: 20px;
+	padding-right:20px;
+	font-size:15px;
+	font-family: "Balsamiq Sans";
+}
+
+.feedback
+{
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+    border:solid 1px rgb(53, 52, 52);
+	height:200px;
+	width:400px;
+	outline: none;
+	background-color:rgb(104, 104, 103);
+	padding-left: 20px;
+	padding-right:20px;
+	font-size:15px;
+	padding-top:20px;
+	font-family: "Balsamiq Sans";
+	color:rgb(10, 10, 10);
+	
+	
+}
+
+.submit
+{
+	background-color:#e60909;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-bottom:500px;
+}
+
+.chart
+{
+	margin-top: 50px;
+	display: flex;
+}
